@@ -71,4 +71,7 @@ console.log(objPersona.name);
 console.log(objPersona.isLoged);
 console.log(objPersona.moneyAccount);
 
-parrafoRojo.innerHTML = "cambiando parrafo uno"
+parrafoRojo.innerHTML = "cambiando parrafo uno";
+
+
+descripcion.innerHTML = "Mensaje predeterminado!";

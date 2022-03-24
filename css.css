@@ -1,3 +1,6 @@
-.code{
-    color:aliceblue;
+.circle{
+    border-radius: 50%;
+}
+.nice{
+    border: solid snow 5px;
 }
